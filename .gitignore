@@ -46,6 +46,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-
+# notebook checkpoint
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
